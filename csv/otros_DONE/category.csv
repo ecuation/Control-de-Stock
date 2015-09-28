@@ -1,0 +1,121 @@
+"Id_category";"category_name";"id_lang"
+1;"Ink refill";1
+1;"Recarga tinta";2
+1;"Tintenbefüllung";3
+1;"inkt bijvullen";4
+2;"Toner refill";1
+2;"Recarga toner";2
+2;"Tonerbefüllung";3
+2;"Toner bijvullen";4
+3;"Compatible ink cartridge";1
+3;"Cartucho tinta compatible";2
+3;"Kompatible tinte patrone";3
+3;"Compatible ink cartridge";4
+4;"Oem ink cartridge";1
+4;"Oem tinta original";2
+4;"Oem tinte partronen";3
+4;"Oem inkt cartridge";4
+5;"Refill cartridge";1
+5;"Cartucho refill";2
+5;"Refill patrone";3
+5;"Refill cartridge";4
+6;"Recycled cartridge";1
+6;"Cartucho reciclado";2
+6;"Recycling patrone";3
+6;"Recycled cartridge";4
+7;"Oem toner cartridge";1
+7;"Oem toner original";2
+7;"Oem toner patrone";3
+7;"Oem toner cartridge";4
+8;"Compatible toner";1
+8;"Toner compatible";2
+8;"Kompatible Toner";3
+8;"Compatible toner";4
+9;"Vinyl print";1
+9;"Vinilo de impresión lona";2
+9;"Vinyl print";3
+9;"Vinyl print";4
+10;"Vinyl cutter";1
+10;"Vinilo de corte";2
+10;"Vinyl cutter";3
+10;"Vinyl cutter";4
+11;"Various";1
+11;"Varios";2
+11;"Allgemein";3
+11;"Algemeen";4
+12;"Refill kit";1
+12;"Kit de recarga";2
+12;"Nachfüllsets";3
+12;"Navullsets";4
+13;"Sublimation";1
+13;"Sublimacion";2
+13;"Sublimation";3
+13;"Sublimation";4
+14;"Poster";1
+14;"Poster";2
+14;"Poster";3
+14;"Poster";4
+15;"Textil";1
+15;"Textil";2
+15;"Textil";3
+15;"Textil";4
+16;"T-shirt";1
+16;"T-shirt";2
+16;"T-shirt";3
+16;"T-shirt";4
+17;"Quickfill";1
+17;"Quickfill";2
+17;"Quickfill";3
+17;"Quickfill";4
+18;"Toner powder";1
+18;"Polvo toner";2
+18;"Tonerpulver";3
+18;"Tonerpoeder";4
+19;"Ink";1
+19;"Tinta";2
+19;"Tinte";3
+19;"Inkt";4
+20;"Chip toner";1
+20;"Chip toner";2
+20;"Chip toner";3
+20;"Chip toner";4
+21;"Chip Ink";1
+21;"Chip tinta";2
+21;"Chip tinte";3
+21;"Chip Inkt";4
+22;"Toner accesories";1
+22;"Accesorios toner";2
+22;"Refillzubehör toner";3
+22;"Toner accesories";4
+23;"Ink accessories";1
+23;"Accesorios tinta";2
+23;"Refillzubehör tinte";3
+23;"Inkt accesoires";4
+24;"Machines";1
+24;"Maquinas";2
+24;"Maschinen";3
+24;"Machines";4
+25;"Led";1
+25;"Led";2
+25;"Led";3
+25;"Led";4
+26;"Poster";1
+26;"Poster";2
+26;"Poster";3
+26;"Poster";4
+27;"Cleaning fluids ";1
+27;"Liquidos limpieza";2
+27;"Reinigungsflüssigkeiten ";3
+27;"Schoonmaakvloeistoffen ";4
+28;"Bazar";1
+28;"Bazar";2
+28;"Bazar";3
+28;"Bazar";4
+29;"Paper";1
+29;"Papel";2
+29;"Papier";3
+29;"Paper";4
+30;"Others";1
+30;"Otros";2
+30;"Others";3
+30;"Others";4
